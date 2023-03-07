@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
 
         val dateButton: Button = findViewById(R.id.start1)
         val date: TextView =findViewById(R.id.text1)
+        val minute: TextView = findViewById(R.id.text2)
     }
 
 }
